@@ -1,0 +1,19 @@
+body {
+    font-family: system-ui;
+    background: #f06d06;
+    color: white;
+    text-align: center;
+  }
+  
+  .bigger{
+    width: 1100px;
+    margin: 0 auto;
+    background: red;
+  }
+  
+  .header{
+    background: pink;
+    margin-bottom: 15px;
+    margin-top: 20px;
+  }
+  
